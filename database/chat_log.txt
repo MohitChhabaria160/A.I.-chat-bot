@@ -1,0 +1,7 @@
+
+You : what are you doing 
+Jarvis : I am currently monitoring the security cameras and systems for the Stark Industries facility.
+You : why are you doing so 
+Jarvis : I am monitoring the security cameras and systems for the Stark Industries facility in order to ensure the safety of the employees and the facility itself.
+You : what's the weather today 
+Jarvis : The weather today is Cloudy with a chance of showers.
